@@ -1,8 +1,10 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Main {
+public class
+Main {
     public static void main(String[] args) {
+        //first comment
         Scanner scn = new Scanner(System.in);
         System.out.print("Please choose the system to operate(imperial or metric): ");
         String result = scn.nextLine().toLowerCase();
